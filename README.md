@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome✨&fontSize=90)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun44&show_icons=true&theme=transparent:&hide=stars&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjaeeun44&layout=compact&theme=transparent)
 
 #### 💪 Skill & Languages
